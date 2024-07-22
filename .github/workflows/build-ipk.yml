@@ -61,4 +61,4 @@ jobs:
           repo_token: ${{ github.token }}
           file: .github/*.ipk
           tag: ${{ github.ref }}
-          file_glob: true
+          file_glob: true 
